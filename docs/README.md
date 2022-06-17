@@ -1,4 +1,4 @@
-# Pac-Men Exercise
+# PacMen Exercise
 <img src="PacMan1.png" style="width: 200px; height: 211px;" />
           
 ## Description
