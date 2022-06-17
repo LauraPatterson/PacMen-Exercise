@@ -1,5 +1,5 @@
 # Pac-Men Exercise
-<img src="./images/PacMan1.png" style="width: 200px; height: 211px;" />
+<img src="../images/PacMan1.png" style="width: 200px; height: 211px;" />
           
 ## Description
 With one left-click of the mouse, Pac-Man moves back and forth across the screen with slight animation by using 4 images. 
